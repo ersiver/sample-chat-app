@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Chatter</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="reset_password">Enter the email associated with your account and we\'ll
+        send an email with instructions to reset your password</string>
+
+    <string name="desc">attached pictures</string>
+
+    <string name="contentDesc">image</string>
+
+    <string name="logout">Log out</string>
+
+    <string name="searchuser">search user&#8230;</string>
+
+    <string name="username">Username</string>
+
+    <string name="email">E-mail address</string>
+
+    <string name="password">Password</string>
+
+    <string name="signup">SIGN UP</string>
+
+    <string name="login">Log in</string>
+
+    <string name="forgot">Forgot your password?</string>
+
+    <string name="noAccount">Have not account yet?</string>
+
+    <string name="reset">reset password</string>
+
+    <string name="startTyping">Start typing&#8230;</string>
+
+    <string-array name="items">
+        <item>Photos from library</item>
+        <item>Camera</item>
+        <item>CANCEL</item>
+    </string-array>
+
+</resources>
+
+
