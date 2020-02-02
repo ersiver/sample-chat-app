@@ -1,5 +1,5 @@
 # GalaxyChat
-Android chat app written in Java andcreated with Firebase. Send text, photos from library or camera. Get notifications when new messages delivered.
+Android chat app written in Java and created with Firebase. Send text, photos from library or camera. Get notifications when new messages delivered.
 #### Chat list & Users list
 ![2 2](https://user-images.githubusercontent.com/58771510/70914845-b6672500-2010-11ea-8358-0a84f3ea9bdc.PNG)  ![2 1](https://user-images.githubusercontent.com/58771510/70914843-b6672500-2010-11ea-8bd8-37e4a3258216.PNG) 
 
